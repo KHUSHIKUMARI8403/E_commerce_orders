@@ -1,0 +1,201 @@
+Order_ID,User_ID,Order_Value,Payment_Type,Order_Status,Order_Date,Category
+O1001,U029,740,COD,Delivered,2025-06-11,Electronics
+O1002,U007,2537,Prepaid,Delivered,2025-07-17,Home Decor
+O1003,U071,2559,Prepaid,Returned,2025-06-02,Men Accessories
+O1004,U063,2135,COD,Delivered,2025-05-04,Women Clothing
+O1005,U058,1194,COD,Delivered,2025-05-12,Women Clothing
+O1006,U036,2136,COD,Cancelled,2025-05-30,Men Accessories
+O1007,U027,1866,COD,Delivered,2025-07-26,Women Clothing
+O1008,U140,978,Prepaid,Cancelled,2025-07-13,Men Accessories
+O1009,U023,585,COD,Returned,2025-07-15,Men Accessories
+O1010,U109,596,COD,Delivered,2025-05-03,Men Accessories
+O1011,U009,2898,Prepaid,Delivered,2025-07-26,Electronics
+O1012,U008,1964,Prepaid,Delivered,2025-06-04,Home Decor
+O1013,U024,1650,COD,Delivered,2025-07-13,Home Decor
+O1014,U056,1933,Prepaid,Delivered,2025-05-06,Kids Wear
+O1015,U060,1882,COD,Delivered,2025-05-23,Electronics
+O1016,U130,2111,COD,Delivered,2025-06-30,Kids Wear
+O1017,U007,420,Prepaid,Delivered,2025-07-06,Home Decor
+O1018,U144,2957,COD,Cancelled,2025-07-23,Home Decor
+O1019,U051,2875,Prepaid,Delivered,2025-06-26,Home Decor
+O1020,U140,2845,COD,Delivered,2025-06-05,Women Clothing
+O1021,U108,602,COD,Cancelled,2025-05-24,Kids Wear
+O1022,U057,447,Prepaid,Delivered,2025-07-14,Electronics
+O1023,U115,1848,Prepaid,Cancelled,2025-06-25,Kids Wear
+O1024,U072,1588,Prepaid,Returned,2025-07-21,Home Decor
+O1025,U002,646,COD,Delivered,2025-07-02,Electronics
+O1026,U041,1217,COD,Delivered,2025-05-12,Kids Wear
+O1027,U109,983,COD,Delivered,2025-06-30,Home Decor
+O1028,U088,978,COD,Delivered,2025-06-14,Home Decor
+O1029,U072,2395,Prepaid,Returned,2025-06-22,Electronics
+O1030,U040,2036,Prepaid,Delivered,2025-06-12,Men Accessories
+O1031,U056,773,Prepaid,Cancelled,2025-06-11,Electronics
+O1032,U087,1927,COD,Delivered,2025-07-25,Men Accessories
+O1033,U027,950,Prepaid,Delivered,2025-05-14,Women Clothing
+O1034,U024,1339,Prepaid,Delivered,2025-05-21,Electronics
+O1035,U098,2093,Prepaid,Delivered,2025-06-12,Men Accessories
+O1036,U025,1222,Prepaid,Cancelled,2025-06-22,Kids Wear
+O1037,U092,507,COD,Cancelled,2025-07-28,Home Decor
+O1038,U089,2014,COD,Delivered,2025-07-03,Women Clothing
+O1039,U068,2453,Prepaid,Delivered,2025-06-06,Electronics
+O1040,U012,600,COD,Returned,2025-07-24,Men Accessories
+O1041,U118,406,Prepaid,Cancelled,2025-06-21,Kids Wear
+O1042,U138,2870,COD,Delivered,2025-07-10,Men Accessories
+O1043,U032,2413,COD,Delivered,2025-05-05,Electronics
+O1044,U097,259,Prepaid,Delivered,2025-06-28,Men Accessories
+O1045,U021,581,Prepaid,Delivered,2025-05-12,Electronics
+O1046,U142,1167,Prepaid,Delivered,2025-06-10,Men Accessories
+O1047,U076,880,Prepaid,Cancelled,2025-06-02,Home Decor
+O1048,U093,1863,COD,Cancelled,2025-06-11,Electronics
+O1049,U148,2188,Prepaid,Delivered,2025-05-15,Electronics
+O1050,U050,2170,COD,Returned,2025-06-21,Women Clothing
+O1051,U018,1074,Prepaid,Delivered,2025-07-05,Home Decor
+O1052,U012,1841,COD,Cancelled,2025-05-01,Electronics
+O1053,U059,439,Prepaid,Cancelled,2025-07-24,Kids Wear
+O1054,U075,873,COD,Delivered,2025-07-09,Men Accessories
+O1055,U021,1751,COD,Cancelled,2025-06-29,Kids Wear
+O1056,U060,207,Prepaid,Returned,2025-06-22,Men Accessories
+O1057,U026,1798,Prepaid,Delivered,2025-05-07,Men Accessories
+O1058,U098,1285,COD,Cancelled,2025-05-25,Women Clothing
+O1059,U072,2062,Prepaid,Delivered,2025-07-06,Electronics
+O1060,U117,1367,Prepaid,Delivered,2025-06-16,Men Accessories
+O1061,U094,1931,COD,Delivered,2025-07-19,Women Clothing
+O1062,U042,2475,Prepaid,Cancelled,2025-07-03,Kids Wear
+O1063,U095,2910,Prepaid,Delivered,2025-07-20,Women Clothing
+O1064,U091,2192,Prepaid,Cancelled,2025-06-26,Kids Wear
+O1065,U054,833,Prepaid,Cancelled,2025-05-07,Electronics
+O1066,U069,976,Prepaid,Delivered,2025-05-27,Men Accessories
+O1067,U019,1414,Prepaid,Cancelled,2025-06-04,Home Decor
+O1068,U044,1090,COD,Delivered,2025-07-10,Kids Wear
+O1069,U137,438,COD,Delivered,2025-05-17,Men Accessories
+O1070,U063,2571,Prepaid,Delivered,2025-06-06,Home Decor
+O1071,U042,2419,Prepaid,Delivered,2025-06-26,Home Decor
+O1072,U119,448,COD,Delivered,2025-07-29,Kids Wear
+O1073,U098,1483,Prepaid,Cancelled,2025-07-02,Men Accessories
+O1074,U070,433,Prepaid,Delivered,2025-05-16,Home Decor
+O1075,U143,404,COD,Delivered,2025-05-04,Women Clothing
+O1076,U057,2591,Prepaid,Cancelled,2025-07-20,Women Clothing
+O1077,U084,2151,Prepaid,Delivered,2025-07-17,Men Accessories
+O1078,U015,2258,COD,Cancelled,2025-05-31,Electronics
+O1079,U059,2374,Prepaid,Cancelled,2025-07-30,Women Clothing
+O1080,U009,843,Prepaid,Delivered,2025-05-21,Kids Wear
+O1081,U081,431,Prepaid,Delivered,2025-06-09,Men Accessories
+O1082,U103,2279,Prepaid,Returned,2025-07-10,Home Decor
+O1083,U069,527,Prepaid,Delivered,2025-05-02,Women Clothing
+O1084,U017,960,COD,Cancelled,2025-07-10,Men Accessories
+O1085,U055,479,Prepaid,Delivered,2025-06-22,Men Accessories
+O1086,U146,2636,COD,Cancelled,2025-05-12,Electronics
+O1087,U081,477,COD,Delivered,2025-05-29,Home Decor
+O1088,U055,2964,Prepaid,Delivered,2025-05-15,Home Decor
+O1089,U128,1162,Prepaid,Delivered,2025-06-29,Home Decor
+O1090,U102,1852,COD,Cancelled,2025-05-16,Kids Wear
+O1091,U118,690,COD,Delivered,2025-07-22,Men Accessories
+O1092,U037,2532,Prepaid,Delivered,2025-05-20,Kids Wear
+O1093,U068,1207,COD,Delivered,2025-07-03,Kids Wear
+O1094,U036,2570,COD,Delivered,2025-07-31,Men Accessories
+O1095,U064,2634,COD,Delivered,2025-06-07,Home Decor
+O1096,U144,361,COD,Delivered,2025-07-05,Men Accessories
+O1097,U138,2735,COD,Delivered,2025-07-30,Electronics
+O1098,U068,534,COD,Delivered,2025-06-04,Men Accessories
+O1099,U150,1916,Prepaid,Cancelled,2025-06-23,Men Accessories
+O1100,U110,2891,COD,Delivered,2025-07-01,Women Clothing
+O1101,U150,2589,Prepaid,Cancelled,2025-06-30,Electronics
+O1102,U103,2514,Prepaid,Delivered,2025-06-01,Women Clothing
+O1103,U093,2340,COD,Delivered,2025-06-28,Home Decor
+O1104,U057,1494,Prepaid,Delivered,2025-07-10,Home Decor
+O1105,U036,1267,Prepaid,Delivered,2025-05-19,Electronics
+O1106,U131,1035,Prepaid,Delivered,2025-06-19,Kids Wear
+O1107,U127,2942,COD,Delivered,2025-05-25,Men Accessories
+O1108,U024,1485,COD,Cancelled,2025-07-16,Women Clothing
+O1109,U013,1176,COD,Delivered,2025-07-05,Electronics
+O1110,U029,1286,COD,Delivered,2025-05-18,Women Clothing
+O1111,U040,1820,Prepaid,Delivered,2025-05-09,Men Accessories
+O1112,U041,735,COD,Cancelled,2025-06-05,Kids Wear
+O1113,U109,2950,COD,Returned,2025-06-23,Women Clothing
+O1114,U017,2842,Prepaid,Delivered,2025-06-13,Electronics
+O1115,U099,1427,COD,Delivered,2025-07-04,Men Accessories
+O1116,U098,2071,COD,Delivered,2025-06-04,Men Accessories
+O1117,U120,1494,COD,Delivered,2025-05-01,Kids Wear
+O1118,U136,496,Prepaid,Delivered,2025-06-06,Electronics
+O1119,U065,237,COD,Delivered,2025-08-01,Men Accessories
+O1120,U142,2076,Prepaid,Delivered,2025-06-08,Women Clothing
+O1121,U003,2743,Prepaid,Delivered,2025-07-15,Home Decor
+O1122,U030,2505,Prepaid,Delivered,2025-07-14,Electronics
+O1123,U138,608,Prepaid,Returned,2025-07-24,Women Clothing
+O1124,U069,499,Prepaid,Delivered,2025-07-02,Kids Wear
+O1125,U088,2401,COD,Delivered,2025-05-20,Kids Wear
+O1126,U029,1072,Prepaid,Delivered,2025-06-27,Men Accessories
+O1127,U076,2271,Prepaid,Cancelled,2025-07-08,Kids Wear
+O1128,U112,1285,Prepaid,Delivered,2025-07-01,Home Decor
+O1129,U041,741,COD,Cancelled,2025-06-14,Women Clothing
+O1130,U117,1628,Prepaid,Delivered,2025-06-12,Electronics
+O1131,U001,480,Prepaid,Delivered,2025-07-10,Men Accessories
+O1132,U068,1199,COD,Delivered,2025-07-09,Electronics
+O1133,U129,1712,Prepaid,Delivered,2025-06-18,Women Clothing
+O1134,U046,1366,Prepaid,Delivered,2025-06-28,Home Decor
+O1135,U130,845,COD,Returned,2025-06-11,Women Clothing
+O1136,U028,1993,Prepaid,Delivered,2025-05-25,Women Clothing
+O1137,U077,2424,COD,Cancelled,2025-07-29,Men Accessories
+O1138,U130,1438,Prepaid,Delivered,2025-05-31,Electronics
+O1139,U051,2704,Prepaid,Delivered,2025-07-13,Women Clothing
+O1140,U040,2877,Prepaid,Delivered,2025-06-19,Women Clothing
+O1141,U096,2365,COD,Delivered,2025-05-30,Home Decor
+O1142,U042,231,COD,Delivered,2025-06-22,Kids Wear
+O1143,U139,2934,COD,Delivered,2025-05-06,Home Decor
+O1144,U136,2470,COD,Delivered,2025-06-10,Electronics
+O1145,U001,1425,Prepaid,Returned,2025-06-30,Electronics
+O1146,U083,2916,COD,Delivered,2025-07-30,Men Accessories
+O1147,U126,623,COD,Cancelled,2025-06-18,Kids Wear
+O1148,U005,749,COD,Delivered,2025-06-19,Electronics
+O1149,U029,1282,Prepaid,Cancelled,2025-07-24,Kids Wear
+O1150,U093,671,Prepaid,Delivered,2025-07-23,Home Decor
+O1151,U079,637,Prepaid,Delivered,2025-05-20,Electronics
+O1152,U062,2465,Prepaid,Delivered,2025-07-03,Women Clothing
+O1153,U015,835,Prepaid,Delivered,2025-05-05,Electronics
+O1154,U062,1314,COD,Cancelled,2025-05-17,Kids Wear
+O1155,U146,1353,COD,Returned,2025-07-04,Electronics
+O1156,U021,2676,Prepaid,Delivered,2025-07-15,Men Accessories
+O1157,U022,1061,Prepaid,Delivered,2025-06-12,Women Clothing
+O1158,U125,1603,COD,Delivered,2025-05-13,Men Accessories
+O1159,U018,1032,Prepaid,Cancelled,2025-06-26,Home Decor
+O1160,U137,2796,Prepaid,Returned,2025-05-13,Electronics
+O1161,U033,1280,COD,Delivered,2025-07-07,Electronics
+O1162,U033,2269,Prepaid,Delivered,2025-06-28,Home Decor
+O1163,U122,2200,Prepaid,Delivered,2025-05-02,Men Accessories
+O1164,U141,1227,Prepaid,Delivered,2025-08-01,Women Clothing
+O1165,U043,407,Prepaid,Delivered,2025-05-19,Men Accessories
+O1166,U068,577,COD,Delivered,2025-06-22,Kids Wear
+O1167,U136,2797,Prepaid,Delivered,2025-07-23,Men Accessories
+O1168,U109,1933,COD,Delivered,2025-05-20,Women Clothing
+O1169,U055,1332,Prepaid,Delivered,2025-05-10,Electronics
+O1170,U139,379,Prepaid,Delivered,2025-06-30,Men Accessories
+O1171,U052,213,Prepaid,Delivered,2025-06-03,Home Decor
+O1172,U080,1565,COD,Cancelled,2025-06-13,Women Clothing
+O1173,U103,734,Prepaid,Cancelled,2025-07-19,Electronics
+O1174,U096,2808,Prepaid,Delivered,2025-07-28,Women Clothing
+O1175,U113,1271,Prepaid,Delivered,2025-06-20,Home Decor
+O1176,U133,860,COD,Returned,2025-07-23,Kids Wear
+O1177,U116,2008,Prepaid,Cancelled,2025-05-11,Women Clothing
+O1178,U031,2458,COD,Delivered,2025-06-12,Women Clothing
+O1179,U064,1950,COD,Delivered,2025-07-26,Men Accessories
+O1180,U058,2496,Prepaid,Returned,2025-07-08,Home Decor
+O1181,U017,238,COD,Delivered,2025-06-18,Home Decor
+O1182,U087,657,COD,Delivered,2025-06-10,Kids Wear
+O1183,U006,507,Prepaid,Delivered,2025-07-20,Home Decor
+O1184,U142,809,COD,Returned,2025-07-31,Women Clothing
+O1185,U059,2433,Prepaid,Cancelled,2025-07-02,Kids Wear
+O1186,U057,346,COD,Delivered,2025-07-09,Home Decor
+O1187,U002,1711,COD,Delivered,2025-05-05,Kids Wear
+O1188,U019,2584,Prepaid,Delivered,2025-07-19,Home Decor
+O1189,U016,2462,Prepaid,Cancelled,2025-05-09,Home Decor
+O1190,U059,805,Prepaid,Delivered,2025-05-31,Men Accessories
+O1191,U018,1959,COD,Delivered,2025-07-20,Home Decor
+O1192,U009,721,Prepaid,Delivered,2025-07-27,Kids Wear
+O1193,U085,370,Prepaid,Delivered,2025-06-06,Women Clothing
+O1194,U019,1461,Prepaid,Delivered,2025-05-30,Men Accessories
+O1195,U132,1692,Prepaid,Returned,2025-05-12,Home Decor
+O1196,U061,362,Prepaid,Delivered,2025-06-25,Home Decor
+O1197,U072,1664,Prepaid,Delivered,2025-05-13,Kids Wear
+O1198,U125,1059,Prepaid,Delivered,2025-07-21,Men Accessories
+O1199,U055,2992,COD,Delivered,2025-07-30,Home Decor
+O1200,U139,1221,Prepaid,Delivered,2025-05-13,Women Clothing
